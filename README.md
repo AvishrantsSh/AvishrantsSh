@@ -1,8 +1,5 @@
-### Hi there 👋
-<img src="untitled.jpeg" align="center" style="width: 80%;">
-<h2>Hey Guys!</h2>
-<p>This is <h1 style="display:inline-block;">Avishrant Sharma</h1> </p>
-
+<img src="untitled.jpeg">
+<h2>Hey Guys! 👋</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🔭 &nbsp; I’m currently working on a IoT Platform powered by Django<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
@@ -14,8 +11,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/avishrantssh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&theme=algolia&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishrantssh&theme=algolia&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishrantssh&theme=dracula" />
 </a>
 
 <br>
