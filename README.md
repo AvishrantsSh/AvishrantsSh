@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**AvishrantsSh/AvishrantsSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a IoT Platform powered by Django
+- 🌱 I’m currently learning Machine Learning and OpenCV
+- 👯 I’m looking to collaborate on literallyy anything interesting.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
