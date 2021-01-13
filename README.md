@@ -11,7 +11,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/avishrantssh">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishrantsSh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AvishrantsSh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" width="400"/>
 </a>
 
 <br>
