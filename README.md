@@ -1,4 +1,3 @@
-<img src="untitled.jpeg">
 <h2>Hey Guys! 👋</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🔭 &nbsp; I’m currently working on a IoT Platform powered by Django<br>
