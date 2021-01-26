@@ -1,8 +1,8 @@
 <h2>Hey Guys! 👋</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🔭 &nbsp; I’m currently working on a IoT Platform powered by Django<br>
+- 🔭 &nbsp; I’m currently working on a Real-time Communication Platform for IoT devices powered by Django<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
-- 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0<br>
+- 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
 - 🌱 &nbsp; Hobby Blender Artist. Currently studying Machine Learning (Tensorflow) <br>
 <br>
 
