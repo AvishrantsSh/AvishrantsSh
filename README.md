@@ -1,6 +1,6 @@
 <h2>Hey Guys! 👋</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🔭 &nbsp; I’m currently working on a Real-time Communication Platform for IoT devices powered by Django<br>
+- 🔭 &nbsp; Nothing much going on :D<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
 - 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
 - 🌱 &nbsp; Hobby Blender Artist. Currently studying Machine Learning (Tensorflow) <br>
@@ -32,6 +32,7 @@
 <br>
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
+ Want to reach out to me? Ferl free to contact.<br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/avishrant-sharma-1158591a2/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:avishrants@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
