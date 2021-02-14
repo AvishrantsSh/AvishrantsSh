@@ -10,7 +10,6 @@
 
 <a href="https://github.com/avishrantssh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishrantssh&theme=dracula&layout=compact&count_private=false" />
 </a>
 
 <br>
@@ -32,7 +31,8 @@
 <br>
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
- Want to reach out to me? Ferl free to contact.<br>
+<p>Want to reach out to me? Ferl free to contact.</p>
+<br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/avishrant-sharma-1158591a2/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:avishrants@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
