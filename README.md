@@ -3,21 +3,32 @@
 - 🔭 &nbsp; Nothing much going on :D<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
 - 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
-- 🌱 &nbsp; Hobby Blender Artist. Currently studying Machine Learning (Tensorflow) <br>
+- 🌱 &nbsp; Hobby Blender Artist. Working on my GSoC Project. <br>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/avishrantssh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
-</a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishrantssh&layout=compact&langs_count=8" alt="AvishrantsSh" />
+  </p>
 
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&show_icons=true" alt="AvishrantsSh" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishrantssh&layout=compact" alt="AvishrantsSh"/>
+  </p>
+  
+</a>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)&nbsp;
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
