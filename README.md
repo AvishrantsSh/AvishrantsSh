@@ -1,6 +1,6 @@
 <h2>Hey Guys! 👋</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🔭 &nbsp; Nothing much going on :D<br>
+- 🔭 &nbsp; GSoC'21 @AboutCode<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
 - 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
 - 🌱 &nbsp; Hobby Blender Artist. Working on my GSoC Project. <br>
