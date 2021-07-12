@@ -3,7 +3,7 @@
 - 🔭 &nbsp; GSoC'21 @AboutCode<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
 - 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
-- 🌱 &nbsp; Hobby Blender Artist. Working on my GSoC Project. <br>
+- 🌱 &nbsp; Django developer and Machine Learning Enthusiast. <br>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
