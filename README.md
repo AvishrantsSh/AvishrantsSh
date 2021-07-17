@@ -1,25 +1,20 @@
-<h2>Hey Guys! 👋</h2>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2>Hey! It's Avishrant this side 👋</h2>
+<br>
+
+### 👨🏻‍💻 &nbsp;About Me 
 - 🔭 &nbsp; GSoC'21 @AboutCode<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
-- 💼 &nbsp; Still polishing some rough edges. Always looking to collaborate on amazing projects.<br>
+- 💼 &nbsp; Always looking to collaborate on amazing projects.<br>
 - 🌱 &nbsp; Django developer and Machine Learning Enthusiast. <br>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<br>
 <a href="https://github.com/avishrantssh">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishrantssh&layout=compact&langs_count=8" alt="AvishrantsSh" />
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishrantssh&show_icons=true" alt="AvishrantsSh" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishrantssh&layout=compact" alt="AvishrantsSh"/>
-  </p>
-  
+    <img src="https://github-readme-stats.vercel.app/api?username=avishrantssh&show_icons=true" alt="AvishrantsSh" style="width:40%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishrantssh&layout=compact" alt="AvishrantsSh" style="width:40%;"/>
+  </p>  
 </a>
 <br>
 
@@ -39,11 +34,13 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 
-<br>
-<h3>🤝🏻 &nbsp;Connect with Me </h3>
-<p>
+### 🤝🏻 &nbsp;Connect with Me
+
 <p>Want to reach out to me? Feel free to contact.</p>
-<br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/avishrant-sharma-1158591a2/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:avishrants@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+### My Latest Articles and Blogs
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AvishrantSh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@AvishrantSh/0" alt="Recent Article 0"> </a>
