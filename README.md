@@ -41,6 +41,13 @@
 <a href="mailto:avishrants@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### My Latest Articles and Blogs
+### 📖 &nbsp; My Latest Articles and Blogs
 
 <a href="https://medium.com/@AvishrantSh/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@AvishrantSh/0" alt="Recent Article 0"> </a>
+
+### Random Stuff
+
+Invite my music bot to your discord server. Might be fun :)
+
+ <a href="https://discord.com/api/oauth2/authorize?client_id=888664459755814953&permissions=36767744&scope=bot"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
