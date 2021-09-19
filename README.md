@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 - 🔭 &nbsp; GSoC'21 @AboutCode<br>
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
-- 💼 &nbsp; Always looking to collaborate on amazing projects.<br>
-- 🌱 &nbsp; Django developer and Machine Learning Enthusiast. <br>
+- 💼 &nbsp; Always looking to collaborate on amazing projects!<br>
+- 🌱 &nbsp; Django developer and Machine Learning Enthusiast.<br>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
