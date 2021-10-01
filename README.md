@@ -43,7 +43,7 @@
 
 ### 📖 &nbsp; My Latest Articles and Blogs
 
-<a href="https://medium.com/@AvishrantSh/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@AvishrantSh/0" alt="Recent Article 0"> </a>
+<a href="https://medium.com/@AvishrantSh/"><img src="medium.png" alt="Recent Article 0" width= "350" height="350"> </a>
 
 ### Random Stuff
 
