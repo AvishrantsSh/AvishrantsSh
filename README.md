@@ -1,12 +1,10 @@
 <h2>Hey! It's Avishrant this side 👋</h2>
-<br>
 
 ### 👨🏻‍💻 &nbsp;About Me 
-- 🔭 &nbsp; GSoC'21 @AboutCode<br>
-- 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur<br>
-- 💼 &nbsp; Always looking to collaborate on amazing projects!<br>
-- 🌱 &nbsp; Django developer and Machine Learning Enthusiast.<br>
-<br>
+- 🔭 &nbsp; GSoC'21 @AboutCode
+- 🎓 &nbsp; Pursuing my Bachelors in Computer Science and Engineering from National Institute of Technology, Hamirpur
+- 💼 &nbsp; Always looking to collaborate on amazing projects!
+- 🌱 &nbsp; Django Developer and Hobby Machine Learning Enthusiast.
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
@@ -21,11 +19,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)&nbsp;
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
